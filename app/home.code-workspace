@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "home"
+		},
+		{
+			"path": "library"
+		},
+		{
+			"path": "music-player"
+		},
+		{
+			"path": "profile"
+		},
+		{
+			"path": "queue"
+		},
+		{
+			"path": "search"
+		},
+		{
+			"path": "stats"
+		}
+	]
+}
